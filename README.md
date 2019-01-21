@@ -1,4 +1,4 @@
-Code for Analytics Genpact competititon
+### Code for Analytics Vidhya Capillary ML Hackathon
 
 **Steps to reporduce solution for 3rd place**:
 * Change file locations in config file
