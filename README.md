@@ -1,6 +1,6 @@
 ### Code for Analytics Vidhya Capillary ML Hackathon
 
-**Steps to reporduce solution for 3rd place**:
+**Steps to reporduce solution for 1st place**:
 * Change file locations in config file
 * run `bash run_all.sh`
 
